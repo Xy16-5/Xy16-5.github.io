@@ -2,9 +2,8 @@
 
 ---
 
-### Planning Workshop 
+### Planning Workshop: North Delaware Ave Corridor Plan
 
-#### North Delaware Ave Corridor Plan
 [Connectivity Existing Conditions](/pdf/Connectivity existing conditions.pdf)
 <br>
 [Alternative Plan: A Riverfront for Community](/pdf/Alternative Plan_ A Riverfront for Community.pdf)
@@ -14,19 +13,12 @@
 <img src="images/new site plan.png?raw=true"/>
 <img src="images/Lower Aramingo rendering.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### STATISTICAL & SPATIAL ANALYSIS
 
-- [Project 1 Title](http://example.com/)
+[E-Scooter Trips Prediction in Philadelphia: Case Study of Minneapolis](/Project_RMarkdown/Philadelphia-E-Scooter-Prediction.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

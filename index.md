@@ -26,10 +26,12 @@ Micro-mobility is seen as a solution to alleviating the last-mile gridlock, espe
 <img src="images/supply by street centerline-1.png?raw=true"/>
 <img src="images/Philadelphia-absolute-trips.png?raw=true"/>
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+[Philly 311 Call Data Analysis](/Project_RMarkdown/Philly-311-Call-Analysis.html)
+- [Writing Sample: Policy Recommendation to Mayor](/pdf/Policy Recommendation to Mayor.pdf)
+
+
 
 ---
 

@@ -4,7 +4,8 @@
 
 ### Planning Workshop 
 
-[North Delaware Ave Corridor Plan](/sample_page)
+#### North Delaware Ave Corridor Plan
+[Alternative Plan: A Riverfront for Community](/pdf/Alternative Plan_ A Riverfront for Community.pdf)
 <img src="images/commuting flow.jpg?raw=true"/>
 <img src="images/new site plan.png?raw=true"/>
 <img src="images/Lower Aramingo rendering.png?raw=true"/>

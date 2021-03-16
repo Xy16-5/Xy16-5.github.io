@@ -8,6 +8,8 @@
 [Connectivity Existing Conditions](/pdf/Connectivity existing conditions.pdf)
 <br>
 [Alternative Plan: A Riverfront for Community](/pdf/Alternative Plan_ A Riverfront for Community.pdf)
+<br>
+[Recommendation: Lower Aramingo Ave- Maintaining Affordability](/pdf/Focus Area-Lower Aramingo Ave [Affordability].pdf)
 <img src="images/commuting flow.jpg?raw=true"/>
 <img src="images/new site plan.png?raw=true"/>
 <img src="images/Lower Aramingo rendering.png?raw=true"/>

@@ -6,6 +6,7 @@
 
 #### North Delaware Ave Corridor Plan
 [Connectivity Existing Conditions](/pdf/Connectivity existing conditions.pdf)
+<br>
 [Alternative Plan: A Riverfront for Community](/pdf/Alternative Plan_ A Riverfront for Community.pdf)
 <img src="images/commuting flow.jpg?raw=true"/>
 <img src="images/new site plan.png?raw=true"/>

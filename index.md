@@ -37,10 +37,12 @@ Philly 311 is a telephone and web services that allows residentis to report none
 
 - [Writing Sample: Policy Recommendation to Mayor](/pdf/Policy Recommendation to Mayor.pdf)
 
-
-
-
 ---
+
+#### ArcGIS
+
+[E-Scooter Trips Prediction in Philadelphia: Case Study of Minneapolis](/Project_RMarkdown/Philadelphia-E-Scooter-Prediction.html)
+
 
 
 

@@ -52,7 +52,12 @@ Abundant research proved that access to greenspace varies highly based on income
 
 #### Google Earth Engine
 
-[Finding Suitable On-Road Testing Sites for Autonomous Vehicles in Philadelphia](https://code.earthengine.google.com/?scriptPath=users%2Fqiuxy8%2FAssignment%3Aterm%20project)
+[Finding Suitable On-Road Testing Sites for Autonomous Vehicles in Philadelphia](/pdf/Finding the suitable road-testing sites for AVs in Philadelphia.pdf)
+<br>
+The widespread of Autonomous Vehicle (AV) has never been seen as close as it seems now with the confluence of advanced technologies and supportive regulations from local governments. The United States (US) is home to companies that lead the world in AV development, contributing to strong performance in technology and innovation ranking No.1 around the world1. In the Automated vehicles 3.0 published in October 2018 by the US Department of Transportation, it declared principles towards AVs including prioritizing safety and preparing for automation through guidance and pilot programs, etc. 
+<br><br>
+Pennsylvania, with two world-class research universities, Carnegie Mellon University and University of Pennsylvania, has emerged as a leading location for on-road testing of HAVs. To ensure the safety on road, Pennsylvania has passed two laws related to autonomous vehicles and regulations by the department of transportation. However, there is still a long way to go to avoid the fatal accident in Arizona. The safety of AVs on road depends on the operation system, human behavior and external environment. While engineers are working on the technologies of AV itself to improve the safety and accuracy of system, we, as a transportation planner, will work on the road infrastructure and regulations on AVs. The term project aims to provide a baseline for PennDOT to regulate the location where AVs could test on road, considering the AV’s reaction to the external environments, including road conditions, geological conditions, weather conditions and demographic conditions.
+<img src="images/GEE AV.png?raw=true"/>
 
 
 

@@ -41,7 +41,18 @@ Philly 311 is a telephone and web services that allows residentis to report none
 
 #### ArcGIS
 
-[E-Scooter Trips Prediction in Philadelphia: Case Study of Minneapolis](/Project_RMarkdown/Philadelphia-E-Scooter-Prediction.html)
+[Mapping the Relationship between Vegetation and Poverty & Race in Philadelphia](/pdf/Vegetation-Poverty-Race.pdf)
+<br>
+Abundant research proved that access to greenspace varies highly based on income, level of education, gender, race, age and other socioeconomic and personal characteristics differences. A common finding is that income and level of education are positively correlated with a greater accessibility to greenspace, while low-income, racial minorities and other vulnerable groups in the city have less access to vegetation.
+<br>
+According to the reports, this situation is happening in Philadelphia, especially the lack of trees in poor neighborhood. We need to ensure if it is true and where exactly demand for more trees.
+<br>
+The analysis figures out the imbalance of accessibility to vegetation between different income groups and races, which is the legacy of structural racism in Philadelphia.
+<img src="images/project flow.png?raw=true"/>
+<img src="images/Average Tree Height 1.png?raw=true"/>
+<img src="images/vegetation score.png?raw=true"/>
+
+
 
 
 

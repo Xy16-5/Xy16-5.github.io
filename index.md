@@ -29,9 +29,11 @@ Micro-mobility is seen as a solution to alleviating the last-mile gridlock, espe
 ---
 
 [Philly 311 Call Data Analysis](/Project_RMarkdown/Philly-311-Call-Analysis.html)
-- [Writing Sample: Policy Recommendation to Mayor](/pdf/Policy Recommendation to Mayor.pdf)
 <br>
 Philly 311 is a telephone and web services that allows residentis to report nonemergency complaints on city services directly to relevant departments. This analysis figures out the priority problems of city services on Census-tract-level and street-level, and helps the governmen† make data-driven decisions on improving Philadelphia city services.
+- [Writing Sample: Policy Recommendation to Mayor](/pdf/Policy Recommendation to Mayor.pdf)
+
+
 
 
 ---

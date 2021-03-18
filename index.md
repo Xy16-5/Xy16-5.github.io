@@ -61,7 +61,7 @@ Pennsylvania, with two world-class research universities, Carnegie Mellon Univer
 
 ---
 
-#### Writing Sample
+### Writing Sample
 
 [Op-Ed: Transit Service Cut is Exacerbating the Transit Inequity in America: How we fix it](/pdf/OpEd Transit Service Cut is Exacerbating the Transit Inequity in America How we fix it.pdf)
 <br>

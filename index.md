@@ -59,6 +59,31 @@ The widespread of Autonomous Vehicle (AV) has never been seen as close as it see
 Pennsylvania, with two world-class research universities, Carnegie Mellon University and University of Pennsylvania, has emerged as a leading location for on-road testing of HAVs. To ensure the safety on road, Pennsylvania has passed two laws related to autonomous vehicles and regulations by the department of transportation. However, there is still a long way to go to avoid the fatal accident in Arizona. The safety of AVs on road depends on the operation system, human behavior and external environment. While engineers are working on the technologies of AV itself to improve the safety and accuracy of system, we, as a transportation planner, will work on the road infrastructure and regulations on AVs. The term project aims to provide a baseline for PennDOT to regulate the location where AVs could test on road, considering the AV’s reaction to the external environments, including road conditions, geological conditions, weather conditions and demographic conditions.
 <img src="images/GEE AV.png?raw=true"/>
 
+---
+
+#### Writing Sample
+
+[Op-Ed: Transit Service Cut is Exacerbating the Transit Inequity in America: How we fix it](/pdf/OpEd Transit Service Cut is Exacerbating the Transit Inequity in America How we fix it.pdf)
+<br>
+Public transit has been pushed to the brink due to Covid-19 lockdowns around the United States. At the ITE annual meeting on August 13th, Neil Pederson, TRB Executive Director, noted that as of the end of July, DS Metrorail and New York MTA commuter rail still revealed 90% and 78-84% reduction in travelers compared to the same time last year. This sharp and lasting reduction in ridership led to the severe fiscal deficit in public transit systems across the country. To react, many transit agencies chose to cut the services and limit the capacity to save money and protect the safety of drivers and riders. However, these changes highlighted and increased the inequality in public transit in the United States.
+
+---
+
+[BART Sustainable Financial Strategy During and After the Pandemic](/pdf/BART Sustainable Financial Strategy.pdf)
+<br>
+As the fifth-busiest heavy rail rapid transit system in the United States, Bay Area Rapid Transit (BART) provides fast and reliable service in connecting San Francisco and Oakland with multiple suburban area in different counties. For more than 60 years, BART brings more convenience to residents and travelers through downtown, shopping area, offices, tourist sites and other destinations. As a long period running economy entity, BART authority sustains its physical service with unique funding structure. However, like many other transit agencies, it faces similar financial obstacles and deficit. BART authority develops its own funding solutions in getting rid of these issues. In addition, BART authority has also published relevant financial policies to ensure its aim of keeping operation cost within estimated revenue compensation.
+
+- [Slide](pdf/BART Slides V3.pdf)
+
+---
+
+[Analysis of Downzoning in Society Hill in Philadelphia from the Perspective of Historic Preservation, Fair Housing Act and Councilmanic Prerogative](/pdf/Analysis of Downzoning in Society Hill in Philadelphia.pdf)
+
+Downzoning and restrictive zoning regulation in the Society Hill has raised a debate among different group of people, like planners, preservationists, residents in and outside the neighborhood, regarding the conflict of historic preservation and affordability and the rationality of councilmanic prerogative. This paper will examine the legal aspects of the rezoning in the Society Hill from the perspective of historic preservation, Fair Housing Act and councilmanic prerogative.
+
+
+
+
 
 
 

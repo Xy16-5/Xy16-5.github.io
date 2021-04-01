@@ -27,6 +27,16 @@ Micro-mobility is seen as a solution to alleviating the last-mile gridlock, espe
 <img src="images/Philadelphia-absolute-trips.png?raw=true"/>
 
 ---
+[Predictive Modeling for Flood Resiliency: Calgary, Canada and Denver, Colorado](/pdf/Predictive Modeling for Flood.pdf)
+<br>
+- [Video Demonstration](https://youtu.be/mUIs2zT6vXo)
+The purpose of this project is to develop a predictive model that predicts
+the probability that an area will be inundated with flood water. The model has been trained and validated on Calgary, a Canadian City in Alberta, and then used to predict for a comparable city, Denver Colorado. This report will explain the planning motivation as well as illustrate the environment features, model performance, and prediction results.
+<img src="images/Calgary Flood.png?raw=true"/>
+<img src="images/Denver Flood.png?raw=true"/>
+
+
+---
 
 [Philly 311 Call Data Analysis](/Project_RMarkdown/Philly-311-Call-Analysis.html)
 <br>

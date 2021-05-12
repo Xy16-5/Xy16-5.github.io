@@ -19,7 +19,7 @@
 ### STATISTICAL & SPATIAL ANALYSIS
 
 #### JavaScript
-[Exploring the Ecnomic Impact of San Francisco's Transit Oriented Developments ](https://Xy16-5.github.io/JS/SF-TOD-DEV/WebMap/home.html)
+[Exploring the Economic Impact of San Francisco's Transit Oriented Developments ](https://Xy16-5.github.io/JS/SF-TOD-DEV/WebMap/home.html)
 <br>
 This online map tool is designed to examine the economic impact of Transit Oriented Developments in San Francisco. It fetches the data from [DataSF Property Tax Rolls dataset](https://data.sfgov.org/Housing-and-Buildings/Assessor-Historical-Secured-Property-Tax-Rolls/wv5m-vpq2) based on users' inputs, including the property use, year and neighborhood. The online map tool would generate comparison plots on property values and built years between different distances from the BART stations.
 <img src="images/WelcomeScreen.png?raw=true"/>

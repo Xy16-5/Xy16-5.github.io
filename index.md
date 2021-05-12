@@ -19,7 +19,7 @@
 ### STATISTICAL & SPATIAL ANALYSIS
 
 #### JavaScript
-[Exploring the Ecnomic Impact of San Francisco's Transit Oriented Developments ](https://github.com/Xy16-5/SF-TOD-DEV/blob/main/WebMap/home.html)
+[Exploring the Ecnomic Impact of San Francisco's Transit Oriented Developments ](/JS/Webmap/home.html)
 
 ---
 
